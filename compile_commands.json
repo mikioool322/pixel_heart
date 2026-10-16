@@ -1,0 +1,194 @@
+[
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\App.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\App.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\App.cpp",
+        "output": ".pio\\build\\native\\src\\App.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\AuroraAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\AuroraAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\AuroraAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\AuroraAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\CampfireAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\CampfireAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\CampfireAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\CampfireAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\ChristmasTreeAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\ChristmasTreeAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\ChristmasTreeAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\ChristmasTreeAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\DancingDuckAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\DancingDuckAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\DancingDuckAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\DancingDuckAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\FallingStarsAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\FallingStarsAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\FallingStarsAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\FallingStarsAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\FireworksAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\FireworksAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\FireworksAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\FireworksAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\HeartbeatAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\HeartbeatAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\HeartbeatAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\HeartbeatAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\MoonStarsAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\MoonStarsAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\MoonStarsAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\MoonStarsAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\RoseBloomAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\RoseBloomAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\RoseBloomAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\RoseBloomAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\SlotMachineAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\SlotMachineAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\SlotMachineAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\SlotMachineAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\SparkleHeartAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\SparkleHeartAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\SparkleHeartAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\SparkleHeartAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\SunOverMountainsAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\SunOverMountainsAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\SunOverMountainsAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\SunOverMountainsAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\SunsetWaterAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\SunsetWaterAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\SunsetWaterAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\SunsetWaterAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\SwimmingFishAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\SwimmingFishAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\SwimmingFishAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\SwimmingFishAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\animations\\TestAnimation.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\animations\\TestAnimation.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\animations\\TestAnimation.cpp",
+        "output": ".pio\\build\\native\\src\\animations\\TestAnimation.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\core\\AnimationManager.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\core\\AnimationManager.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\core\\AnimationManager.cpp",
+        "output": ".pio\\build\\native\\src\\core\\AnimationManager.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\core\\AnimationNames.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\core\\AnimationNames.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\core\\AnimationNames.cpp",
+        "output": ".pio\\build\\native\\src\\core\\AnimationNames.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\core\\AnimationRegistry.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\core\\AnimationRegistry.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\core\\AnimationRegistry.cpp",
+        "output": ".pio\\build\\native\\src\\core\\AnimationRegistry.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\core\\PixelMatrix.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\core\\PixelMatrix.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\core\\PixelMatrix.cpp",
+        "output": ".pio\\build\\native\\src\\core\\PixelMatrix.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\main.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\main.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\main.cpp",
+        "output": ".pio\\build\\native\\src\\main.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\network\\Esp32CredentialStore.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\network\\Esp32CredentialStore.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\network\\Esp32CredentialStore.cpp",
+        "output": ".pio\\build\\native\\src\\network\\Esp32CredentialStore.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\network\\Esp32LanService.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\network\\Esp32LanService.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\network\\Esp32LanService.cpp",
+        "output": ".pio\\build\\native\\src\\network\\Esp32LanService.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\network\\Esp32NetworkDriver.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\network\\Esp32NetworkDriver.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\network\\Esp32NetworkDriver.cpp",
+        "output": ".pio\\build\\native\\src\\network\\Esp32NetworkDriver.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\network\\Esp32ProvisioningPortal.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\network\\Esp32ProvisioningPortal.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\network\\Esp32ProvisioningPortal.cpp",
+        "output": ".pio\\build\\native\\src\\network\\Esp32ProvisioningPortal.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\network\\NetworkManager.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\network\\NetworkManager.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\network\\NetworkManager.cpp",
+        "output": ".pio\\build\\native\\src\\network\\NetworkManager.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\scheduling\\AnimationPool.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\scheduling\\AnimationPool.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\scheduling\\AnimationPool.cpp",
+        "output": ".pio\\build\\native\\src\\scheduling\\AnimationPool.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\scheduling\\ManualOverride.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\scheduling\\ManualOverride.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\scheduling\\ManualOverride.cpp",
+        "output": ".pio\\build\\native\\src\\scheduling\\ManualOverride.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\scheduling\\ManualTimeProvider.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\scheduling\\ManualTimeProvider.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\scheduling\\ManualTimeProvider.cpp",
+        "output": ".pio\\build\\native\\src\\scheduling\\ManualTimeProvider.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\scheduling\\PlaybackPolicy.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\scheduling\\PlaybackPolicy.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\scheduling\\PlaybackPolicy.cpp",
+        "output": ".pio\\build\\native\\src\\scheduling\\PlaybackPolicy.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\scheduling\\Scheduler.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\scheduling\\Scheduler.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\scheduling\\Scheduler.cpp",
+        "output": ".pio\\build\\native\\src\\scheduling\\Scheduler.o"
+    },
+    {
+        "command": "C:\\Users\\mikio\\AppData\\Local\\Temp\\opencode\\zigshim\\g++.bat -o .pio\\build\\native\\src\\time\\NtpTimeProvider.o -c -DPLATFORMIO=60200 -Iinclude -Isrc -Itest\\fakes src\\time\\NtpTimeProvider.cpp",
+        "directory": "E:\\pixel_heart",
+        "file": "src\\time\\NtpTimeProvider.cpp",
+        "output": ".pio\\build\\native\\src\\time\\NtpTimeProvider.o"
+    }
+]
